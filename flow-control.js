@@ -43,7 +43,5 @@ function switchAge(age) {
     case 19:
       return("You are a teenager!")
       break;
-    default:
-      return('That\'s not a mood we support')
   }
 }
